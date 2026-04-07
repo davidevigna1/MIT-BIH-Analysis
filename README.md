@@ -41,6 +41,3 @@ FROM patients_records
 WHERE Stato = 'Tachycardia' 
 ORDER BY BPM DESC;
 
-**B)** SELECT Stato, COUNT(*) as Total_Patients, ROUND(AVG(BPM), 1) as Avg_BPM
-FROM patients_records 
-GROUP BY Stato;
