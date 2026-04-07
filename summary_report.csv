@@ -1,0 +1,8 @@
+Metric,Value
+Total Patients,48
+Abnormal Cases,27
+Abnormal %,56.25%
+Average BPM,101.38
+Std Dev,12.7
+Min BPM,75.6332307692308
+Max BPM,123.153230769231
